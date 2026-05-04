@@ -1,6 +1,6 @@
 package com.example.Repositories;
 
-import com.example.loginauthapi.domain.user.User;
+import com.example.Domain.User.User; // Assuming User is in com.example.Domain.User
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
